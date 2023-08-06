@@ -1,0 +1,12 @@
+body {
+    background-image: url(../images/back-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+ #form {
+     background-color: white;
+     border-radius: 5px;
+     padding: 20px;
+     margin-top: 5%;
+ }
